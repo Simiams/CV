@@ -21,7 +21,7 @@ export const userData = {
     experiences: [
         {
             id: 1,
-            post: "Developer C#",
+            post: "Developeur C#",
             period: "mai 2022",
             desc: " Stage de 5 semaines sur un outil annexe d'un logiciel de création de template (style WordPress).",
             competences: ["C#", "XAML", "threading", "travail en entreprise"],
@@ -35,5 +35,13 @@ export const userData = {
             competences: ["travail d'équipe", "organisation"],
             link: "https://www.tourismebretagne.com/destinations/les-10-destinations/bretagne-loire-ocean/guerande-et-ses-marais-salants/"
         },
+        {
+            id: 3,
+            post: "Developeur web et wordpress",
+            period: "janv - fev 2023",
+            desc: "Creation d'un site de vente d'a'art, navigable grace a une borne d'arcade (joystick et boutons)",
+            competences: ["HTML", "CSS", "JQuery", "Worpress", "PHP"],
+            link: "https://www.troublanc.com/"
+        }
     ],
 }
